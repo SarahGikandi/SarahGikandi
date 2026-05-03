@@ -1,7 +1,7 @@
 # Hi, I'm Sarah 👋
 
 ## 🧑‍💻 About Me
-I'm a Computer Science student based in Nairobi, Kenya.  
+I'm a Computer Science student based in Chuka, Kenya.  
 I enjoy learning how software works by building small, meaningful projects.
 
 Right now I'm focused on:
