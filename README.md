@@ -25,5 +25,23 @@ Right now I'm focused on:
 - Improve consistency in coding practice
 - Become confident in software development fundamentals
 
+
+## 📊 GitHub Stats
+
+![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahGikandi&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SarahGikandi&theme=tokyonight)
+
+---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahGikandi&layout=compact&theme=tokyonight)
+
+
 ## 📫 Connect with me
-- GitHub: [SarahGikandi]
+- Email: gikadisarah@gmail.com
