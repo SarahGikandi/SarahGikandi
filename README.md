@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sarah 👋
 
-<!--
-**SarahGikandi/SarahGikandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I'm a Computer Science student based in Nairobi, Kenya.  
+I enjoy learning how software works by building small, meaningful projects.
 
-Here are some ideas to get you started:
+Right now I'm focused on:
+- Python programming 🐍
+- Web development (React + JavaScript) ⚛️
+- Problem solving & algorithms 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+- Personal projects to improve my coding skills
+- Learning how to structure real-world applications
+- Understanding core CS concepts deeply
+
+## 🛠️ Tech Stack
+- Python
+- JavaScript
+- React (learning)
+- HTML & CSS
+
+## 📌 Goals
+- Build a strong project portfolio
+- Improve consistency in coding practice
+- Become confident in software development fundamentals
+
+## 📫 Connect with me
+- GitHub: [SarahGikandi]
