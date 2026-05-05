@@ -6,6 +6,7 @@ I enjoy learning how software works by building small, meaningful projects.
 
 Right now I'm focused on:
 - Python programming 🐍
+- Java programming
 - Web development (React + JavaScript) ⚛️
 - Problem solving & algorithms 🧠
 
@@ -19,6 +20,7 @@ Right now I'm focused on:
 - JavaScript
 - React (learning)
 - HTML & CSS
+- Java
 
 ## 📌 Goals
 - Build a strong project portfolio
